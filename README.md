@@ -29,6 +29,3 @@ llm-bias-and-safety-review-recruiter-ready/
 └── reports/
 ```
 
-## Disclaimer
-
-All examples are synthetic and for portfolio demonstration only.
